@@ -1,0 +1,9 @@
+<material>
+    <technique name="Techniques/TerrainBlend.xml" />
+    <texture unit="0" name="Displacement/Textures/dispWeightmap.png" />
+    <texture unit="1" name="Displacement/Textures/dispTerrDetail1.jpg" />
+    <texture unit="2" name="Displacement/Textures/dispTerrDetail2.jpg" />
+    <texture unit="3" name="Displacement/Textures/dispTerrDetail3.jpg" />
+    <parameter name="MatSpecColor" value="0 0 0 16" />
+    <parameter name="DetailTiling" value="32 32" />
+</material>
